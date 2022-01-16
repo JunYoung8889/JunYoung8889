@@ -9,12 +9,13 @@
 
 <h3 align="center">Me</h3>
 
-<p align='center'><a href="https://www.instagram.com/park_ga__/"><img src="https://img.shields.io/badge/instagram-hotpink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/park_ga__/"/></a>   <a href="https://www.facebook.com/profile.php?id=100005256542768"><img src="https://img.shields.io/badge/instagram-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005256542768"/></a> </p>
+<p align='center'><a href="https://www.instagram.com/park_ga__/"><img src="https://img.shields.io/badge/instagram-hotpink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/park_ga__/"/></a>&nbsp;&nbsp;<a href="https://www.facebook.com/profile.php?id=100005256542768"><img src="https://img.shields.io/badge/facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005256542768"/></a> </p>
 
-<h3 align="center">Email</h3>
+<h3 align="center">Email, Phone Number</h3>
 
 <p align="center"> mkmkmk484848@naver.com </p>
 
 <p align="center"> mkmkmk484848@gmail.com </p>
+<p align="center"> 010-4180-8889 </p>
 <p align="center"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunYoung8889%2Fhit-counter"/></a> </p>
 
