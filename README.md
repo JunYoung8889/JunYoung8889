@@ -17,8 +17,11 @@
 	</a>
 </p>
 <div align='center'>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mkmkmk484848"/>
+    <a href="https://solved.ac/profile/mkmkmk484848">
+    	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mkmkmk484848"/>
+    </a>
 </div>
+
 
 
 
