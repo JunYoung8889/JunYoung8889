@@ -5,7 +5,7 @@
 <h3 align="center">💻Tech Stack💻</h3>
 <p align="center"> Techs that I can use </p>
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-green?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></p>
 
 <h3 align="center">Me</h3>
 
